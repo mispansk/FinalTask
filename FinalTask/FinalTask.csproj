@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ConsoleApp841">
+      <HintPath>..\..\ConsoleApp841\ConsoleApp841\bin\Debug\netcoreapp3.1\ConsoleApp841.dll</HintPath>
+    </Reference>
+    <Reference Include="ConsoleApp863">
+      <HintPath>..\..\ConsoleApp863\ConsoleApp863\bin\Debug\netcoreapp3.1\ConsoleApp863.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
